@@ -10,6 +10,8 @@ def main():
     print("The difference is", num1 - num2)
     print("The product is", num1 * num2)
     print("The quotient is", num1 / num2)
+    # Extra!!
+    print("The average is", (num1 + num2) / 2)
 
 
 
